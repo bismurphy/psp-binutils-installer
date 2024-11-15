@@ -1,6 +1,6 @@
 This script fetches and builds a version of binutils meant for use with the Playstation Portable console.
 
-Simply run the script and it will do everything. It takes about 2 minutes on my machine.
+Simply run the `autoscript.sh` script and it will do everything. It takes about 2 minutes on my machine.
 
 This was developed for the purpose of getting a PSP-compatible assembler (`psp-as`), which you can find in the `pspdev/bin` directory after running the script.
 
